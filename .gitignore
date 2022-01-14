@@ -132,4 +132,6 @@ dmypy.json
 # dataset
 # 忽略data目录下所有文件
 data/*
-.idea/
+.idea/*
+*/wandb/*
+Kaggle/*
